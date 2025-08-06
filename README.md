@@ -248,9 +248,9 @@ performance_data = analyzer.compare_algorithms([
 ## 📞 **Contact and Collaboration**
 
 ### **Research Inquiries**
-- **Email**: [your.email@university.edu](mailto:your.email@university.edu)
-- **Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=yourprofile)
-- **LinkedIn**: [Professional Profile](https://linkedin.com/in/yourprofile)
+- **Email**: [your.email@university.edu](ab0450@uah.edu)
+
+- **LinkedIn**: [Professional Profile](https://linkedin.com/in/adithya-bellamkonda-a023b3374/)
 
 ### **Collaboration Requests**
 We welcome collaboration requests for:
